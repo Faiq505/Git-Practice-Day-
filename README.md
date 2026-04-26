@@ -1,1 +1,1 @@
-# Git-Practice-Day- 
+# Git-Practice-Day-1 of the GIT
